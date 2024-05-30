@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="Calcular promedio conjunto vacio (rojo)" />
+    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="Caso2: Calcular promedio con un conjunto de un elemento (Verde)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,13 +93,42 @@
       <option name="project" value="LOCAL" />
       <updated>1717111765356</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Caso2: Calcular promedio con un conjunto de un elemento (Rojo)">
+      <option name="closed" value="true" />
+      <created>1717111938881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717111938881</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Caso2: Calcular promedio con un conjunto de un elemento (Verde)">
+      <option name="closed" value="true" />
+      <created>1717112170440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717112170440</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sEGUNDO COMMIT" />
     <MESSAGE value="Creando el esqueleto de las clases y conjunto" />
     <MESSAGE value="Calcular promedio conjunto vacio (rojo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calcular promedio conjunto vacio (rojo)" />
+    <MESSAGE value="Caso2: Calcular promedio con un conjunto de un elemento (Rojo)" />
+    <MESSAGE value="Caso2: Calcular promedio con un conjunto de un elemento (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso2: Calcular promedio con un conjunto de un elemento (Verde)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TEST/TestConjunto.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
