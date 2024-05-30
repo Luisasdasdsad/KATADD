@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="Caso2: Calcular promedio con un conjunto de un elemento (Verde)" />
+    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="“Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)”">
+      <change beforePath="$PROJECT_DIR$/SRC/LOGICA/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/LOGICA/Conjunto.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717112170440</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="“Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)”">
+      <option name="closed" value="true" />
+      <created>1717112298760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717112298760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,7 +128,8 @@
     <MESSAGE value="Calcular promedio conjunto vacio (rojo)" />
     <MESSAGE value="Caso2: Calcular promedio con un conjunto de un elemento (Rojo)" />
     <MESSAGE value="Caso2: Calcular promedio con un conjunto de un elemento (Verde)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso2: Calcular promedio con un conjunto de un elemento (Verde)" />
+    <MESSAGE value="“Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)”" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
