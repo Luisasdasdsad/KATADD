@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="Creando el esqueleto de las clases y conjunto">
-      <change beforePath="$PROJECT_DIR$/TEST/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/TestConjunto.py" afterDir="false" />
-    </list>
+    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="Calcular promedio conjunto vacio (rojo)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +32,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestConjunto.py.executor": "Run",
+    "Python.Conjunto.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -77,12 +77,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717111018629</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creando el esqueleto de las clases y conjunto">
+      <option name="closed" value="true" />
+      <created>1717111466809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717111466809</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Calcular promedio conjunto vacio (rojo)">
+      <option name="closed" value="true" />
+      <created>1717111765356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717111765356</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sEGUNDO COMMIT" />
     <MESSAGE value="Creando el esqueleto de las clases y conjunto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando el esqueleto de las clases y conjunto" />
+    <MESSAGE value="Calcular promedio conjunto vacio (rojo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calcular promedio conjunto vacio (rojo)" />
   </component>
 </project>
