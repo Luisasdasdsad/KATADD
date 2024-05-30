@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="“Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)”">
+    <list default="true" id="6f203584-0a09-4345-ad7b-36b3cca7f6aa" name="Changes" comment="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”">
       <change beforePath="$PROJECT_DIR$/SRC/LOGICA/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/LOGICA/Conjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717112298760</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="“Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)”">
+      <option name="closed" value="true" />
+      <created>1717112569294</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717112569294</updated>
+    </task>
+    <task id="LOCAL-00009" summary="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”">
+      <option name="closed" value="true" />
+      <created>1717112690479</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717112690479</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,7 +146,9 @@
     <MESSAGE value="Caso2: Calcular promedio con un conjunto de un elemento (Rojo)" />
     <MESSAGE value="Caso2: Calcular promedio con un conjunto de un elemento (Verde)" />
     <MESSAGE value="“Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)”" />
-    <option name="LAST_COMMIT_MESSAGE" value="“Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)”" />
+    <MESSAGE value="“Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)”" />
+    <MESSAGE value="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
