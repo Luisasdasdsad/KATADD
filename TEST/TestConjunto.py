@@ -1,5 +1,5 @@
 import unittest
-
+from SRC.LOGICA.Conjunto import Conjunto
 
 class MyTestCase(unittest.TestCase):
     def test_something(self):
