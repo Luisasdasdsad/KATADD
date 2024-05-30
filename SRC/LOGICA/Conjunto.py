@@ -1,2 +1,4 @@
 class Conjunto;
-    pass
+
+    def promedio(self);
+        return False
